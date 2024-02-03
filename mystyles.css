@@ -5,7 +5,7 @@ p {
   width: 200px;
   text-align: center;
 }
-body{
+body {
     color: blanchedalmond;
 }
 h1 {
@@ -13,6 +13,6 @@ h1 {
   font-size: 36px;
   text-align: center;
 }
-#cutecat{
+#cutecat {
     object-position: center; 
 }
